@@ -16,7 +16,7 @@ public class Nomor1{
         } else {
             int honorPertama = 16 * 10000;
             int sisaJam = jamLembur - 16;
-            int honorSisa = sisaJam * 20000;
+            int honorSisa = sisaJam * 15000;
             honor = honorPertama + honorSisa;
         }
         //Hasil
